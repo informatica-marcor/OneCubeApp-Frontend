@@ -1,0 +1,15 @@
+.git
+node_modules
+dist
+dist-ssr
+build
+.env
+.env.*
+!.env.example
+.npm-cache
+.cache
+.vite
+coverage
+*.log
+.vscode
+.idea
